@@ -1,0 +1,5 @@
+npm start
+npm install
+npm audit fix
+npm fund
+npm start
